@@ -1,0 +1,28 @@
+.image-preview img{
+    border-top: 12px solid #85ceed;
+    border-right: 12px solid lightpink;
+    border-bottom: 12px solid lightgreen;
+    border-left: 12px solid #ffefd5;
+    margin-top: 50px;
+    margin-left: 620px ;
+    margin-bottom: 50px;
+    
+}  
+
+.tabless{
+     width: 40%;
+            margin-left: 500px ;
+            font-family: Arial;
+}
+ .tabless th {
+            background-color: #499e4c;
+            color: white;
+            padding: 5px;
+            text-align: center;
+        }
+
+        .tabless td {
+          text-align: center;
+            padding: 5px;
+            border: 1px solid #ddd;
+        }
